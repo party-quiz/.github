@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>PartyQuiz</title>
+  <path fill="#141414" d="M34 5c16 0 25 10 25 25 0 17-10 29-27 29C16 59 6 49 6 33 6 16 17 5 34 5Z"/>
+  <path fill="#ffe14f" stroke="#141414" stroke-width="4" d="M31 3c16 0 25 10 25 25 0 17-10 27-27 27C13 55 3 45 3 29 3 14 14 3 31 3Z"/>
+  <path fill="none" stroke="#141414" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M20 22c1-7 7-11 14-10 7 0 11 5 10 11-1 5-5 7-9 9-4 2-5 4-5 8"/>
+  <circle cx="29" cy="47" r="4" fill="#ff4f7b" stroke="#141414" stroke-width="2"/>
+</svg>
